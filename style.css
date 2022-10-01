@@ -67,6 +67,7 @@ nav{
     height: 62rem;
     width: 100%;
     font-family: 'Josefin Sans', sans-serif;
+    background: url(./images/bg.png);
 }
 
 .intro h1{
